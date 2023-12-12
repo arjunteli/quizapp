@@ -39,8 +39,6 @@ public class Question {
 		super();
 	}
 
-	
-
 	@Override
 	public String toString() {
 		return "Question [id=" + id + ", QuestionTitle=" + QuestionTitle + ", option1=" + option1 + ", option2="
